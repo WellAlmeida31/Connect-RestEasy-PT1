@@ -7,9 +7,9 @@ import javax.ws.rs.core.Response;
 public interface ConnectionRemote {
 
     @POST
-    @Path("/emmpost")
+    @Path("/projeto2post")
     @Consumes({MediaType.APPLICATION_JSON})
-    Response emmPost(String connectionDto);
+    Response projeto2Post(String connectionDto);
 
     @GET
     @Path("/ws/{cep}/json/")
