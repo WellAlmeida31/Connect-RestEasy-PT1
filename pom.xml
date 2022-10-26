@@ -8,7 +8,7 @@
 		<version>2.7.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example.conect</groupId>
+	<groupId>com.example.projeto1</groupId>
 	<artifactId>conect</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>conect</name>

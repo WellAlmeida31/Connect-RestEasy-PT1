@@ -1,4 +1,4 @@
-package com.example.conect.util;
+package com.example.projeto1.util;
 
 import com.google.gson.Gson;
 import lombok.experimental.UtilityClass;

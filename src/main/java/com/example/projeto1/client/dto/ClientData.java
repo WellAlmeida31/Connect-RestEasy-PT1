@@ -1,4 +1,4 @@
-package com.example.conect.client.dto;
+package com.example.projeto1.client.dto;
 
 import lombok.*;
 

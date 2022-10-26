@@ -1,9 +1,9 @@
-package com.example.conect.controller;
+package com.example.projeto1.controller;
 
-import com.example.conect.client.dto.AddressData;
-import com.example.conect.client.dto.ClientData;
-import com.example.conect.client.dto.DataDto;
-import com.example.conect.service.ConnectionService;
+import com.example.projeto1.client.dto.AddressData;
+import com.example.projeto1.client.dto.ClientData;
+import com.example.projeto1.client.dto.DataDto;
+import com.example.projeto1.service.ConnectionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;

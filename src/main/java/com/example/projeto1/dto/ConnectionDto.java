@@ -1,4 +1,4 @@
-package com.example.conect.dto;
+package com.example.projeto1.dto;
 
 import lombok.*;
 

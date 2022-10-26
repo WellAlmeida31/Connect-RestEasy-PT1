@@ -1,11 +1,11 @@
-package com.example.conect.service;
+package com.example.projeto1.service;
 
-import com.example.conect.client.dto.AddressData;
-import com.example.conect.client.dto.ClientData;
-import com.example.conect.dto.ConnectionDto;
-import com.example.conect.dto.HeadersDTO;
-import com.example.conect.dto.RequestMethod;
-import com.example.conect.util.Utils;
+import com.example.projeto1.client.dto.AddressData;
+import com.example.projeto1.client.dto.ClientData;
+import com.example.projeto1.dto.ConnectionDto;
+import com.example.projeto1.dto.HeadersDTO;
+import com.example.projeto1.dto.RequestMethod;
+import com.example.projeto1.util.Utils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,6 +1,6 @@
-package com.example.conect.config;
+package com.example.projeto1.config;
 
-import com.example.conect.service.ConnectionRemote;
+import com.example.projeto1.service.ConnectionRemote;
 import org.apache.http.impl.client.CloseableHttpClient;
 import org.apache.http.impl.client.HttpClients;
 import org.apache.http.impl.conn.PoolingHttpClientConnectionManager;

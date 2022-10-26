@@ -1,4 +1,4 @@
-package com.example.conect.service;
+package com.example.projeto1.service;
 
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
