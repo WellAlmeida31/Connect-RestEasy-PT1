@@ -43,7 +43,7 @@ public class ConnectionService {
 
 
     private <T,R> Object getClientData(ConnectionDto<T> dto, Class<R> clazz) {
-        Response client = connectionRemoteProxy.emmPost(Utils.toJson(dto));
+        Response client = connectionRemoteProxy.projeto2Post(Utils.toJson(dto));
         R cd = client.readEntity(clazz);
         client.close();
         return (R) cd;
